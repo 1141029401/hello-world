@@ -1,0 +1,2 @@
+#忽略hello-world下的所得文本文件
+hello-world/*.txt
